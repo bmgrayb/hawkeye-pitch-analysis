@@ -1,0 +1,4 @@
+include pitch_path/files/*
+include pitch_path/model/*
+include requirements.txt
+include README.md

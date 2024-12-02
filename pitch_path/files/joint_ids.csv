@@ -1,0 +1,30 @@
+joint_type_id,joint_type,hawkeye
+1,left ankle,lAnkle
+2,left ear,lEar
+3,left elbow,lElbow
+4,left eye,lEye
+5,left hip,lHip
+6,left knee,lKnee
+7,left shoulder,lShoulder
+8,left wrist,lWrist
+9,neck,neck
+10,nose,nose
+11,right ankle,rAnkle
+12,right ear,rEar
+13,right elbow,rElbow
+14,right eye,rEye
+15,right hip,rHip
+16,right knee,rKnee
+17,right shoulder,rShoulder
+18,right wrist,rWrist
+19,mid hip,midHip
+20,left heel,lHeel
+21,left big toe,lBigToe
+22,left small toe,lSmallToe
+23,left thumb,lThumb
+24,left pinky,lPinky
+25,right heel,rHeel
+26,right big toe,rBigToe
+27,right small toe,rSmallToe
+28,right thumb,rThumb
+29,right pinky,rPinky
